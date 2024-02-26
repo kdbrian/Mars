@@ -4,6 +4,4 @@ import dagger.hilt.android.HiltAndroidApp
 
 
 @HiltAndroidApp
-
-class MarsApplication {
-}
+class MarsApplication : Application(){}
