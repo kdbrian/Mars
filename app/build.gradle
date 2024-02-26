@@ -79,6 +79,14 @@ dependencies {
     implementation "com.squareup.okhttp3:logging-interceptor:$interceptor"
     implementation "com.squareup.retrofit2:converter-gson:$retrofit"
     implementation "com.squareup.retrofit2:adapter-rxjava2:$retrofit"
+
+    implementation "com.google.dagger:hilt-android:$hiltVersion"
+    kapt "com.google.dagger:hilt-compiler:$hiltVersion"
+    implementation "androidx.hilt:hilt-navigation-compose:1.2.0"
+
+
+    implementation "androidx.lifecycle:lifecycle-runtime-compose:2.7.0"
+
 }
 
 kapt {
