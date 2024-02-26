@@ -1,5 +1,6 @@
-package io.github.mars.domain.model
+package io.github.junrdev.mars.domain.model
 
+import io.github.junrdev.mars.domain.model.RoverUiModel
 import io.github.mars.R
 
 val roverUiModelList = listOf(

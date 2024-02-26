@@ -1,4 +1,4 @@
-package io.github.mars.ui.view
+package io.github.junrdev.mars.ui.view
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -18,8 +18,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import io.github.mars.domain.model.RoverUiModel
-import io.github.mars.domain.model.roverUiModelList
+import io.github.junrdev.mars.domain.model.RoverUiModel
+import io.github.junrdev.mars.domain.model.roverUiModelList
 
 @Preview
 @Composable
