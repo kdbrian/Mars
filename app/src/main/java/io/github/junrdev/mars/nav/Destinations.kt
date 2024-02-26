@@ -1,8 +1,8 @@
-package io.github.mars.nav
+package io.github.junrdev.mars.nav
 
 import androidx.navigation.NavController
-import io.github.mars.nav.Destinations.Home
-import io.github.mars.nav.Destinations.Manifest
+import io.github.junrdev.mars.nav.Destinations.Home
+import io.github.junrdev.mars.nav.Destinations.Manifest
 
 object Destinations {
     const val Home = "home"
