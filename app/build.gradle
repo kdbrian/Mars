@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace 'io.github.mars'
+    namespace 'io.github.junrdev.mars'
     compileSdk 34
 
     defaultConfig {
-        applicationId "io.github.mars"
+        applicationId "io.github.junrdev.mars"
         minSdk 24
         targetSdk 34
         versionCode 1
