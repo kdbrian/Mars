@@ -1,4 +1,5 @@
-package io.github.mars.ui.theme
+package io.github.junrdev.mars.ui.theme
+
 
 import android.app.Activity
 import android.os.Build

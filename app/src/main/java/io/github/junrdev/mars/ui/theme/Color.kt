@@ -1,4 +1,4 @@
-package io.github.mars.ui.theme
+package io.github.junrdev.mars.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

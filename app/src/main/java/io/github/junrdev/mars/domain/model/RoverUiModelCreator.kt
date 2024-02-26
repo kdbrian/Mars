@@ -1,6 +1,6 @@
-package io.github.mars.domain.model
+package io.github.junrdev.mars.domain.model
 
-import io.github.mars.R
+import io.github.junrdev.mars.R
 
 val roverUiModelList = listOf(
     RoverUiModel("Curiosity", R.drawable.curiosity, "6 August 2012", "29.27 Km"),

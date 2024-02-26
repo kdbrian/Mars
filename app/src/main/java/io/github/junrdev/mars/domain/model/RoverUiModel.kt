@@ -1,4 +1,4 @@
-package io.github.mars.domain.model
+package io.github.junrdev.mars.domain.model
 
 import androidx.annotation.DrawableRes
 
